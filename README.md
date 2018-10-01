@@ -10,17 +10,17 @@ I've heard from most of the people that Web based challenges in CTF's involves a
 Assuming the person has a basic understanding of PHP/MySQL and JS, rest all that comes up, one can learn on the course!
 
 1) SQL Injection:
-    1) [Source Code] (https://github.com/Audi-1/sqli-labs)
-    2) [YouTube Video] (https://www.youtube.com/playlist?list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro)
+    1) [Source Code](https://github.com/Audi-1/sqli-labs)
+    2) [YouTube Video](https://www.youtube.com/playlist?list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro)
 
 2) Cross Site Scripting:
     1) This with enough and more hands-on, one will get a better understanding. A few wargame websites will be listed below.
-    2) A few good videos; [XSS Protection Bypass] (https://www.youtube.com/watch?v=TKn5qdti66c), [Bypassing Modern WAF's Exemplified At XSS by Rafay Baloch] (https://www.youtube.com/watch?v=dWLpw-7_pa8), [Revisiting XSS Sanitization] (https://www.youtube.com/watch?v=LLtOJNeMp7c)
+    2) A few good videos; [XSS Protection Bypass](https://www.youtube.com/watch?v=TKn5qdti66c), [Bypassing Modern WAF's Exemplified At XSS by Rafay Baloch](https://www.youtube.com/watch?v=dWLpw-7_pa8), [Revisiting XSS Sanitization](https://www.youtube.com/watch?v=LLtOJNeMp7c)
 
 ## Wargames ##
 Practicing as much as you can is the key. There are a few websites, ordered in terms of difficulty!
 
-1) [RootMe][https://www.root-me.org/wargame?lang=en]
+1) [RootMe](https://www.root-me.org/wargame?lang=en)
 2) [RingZer0team](https://ringzer0team.com/)
 3) [Tasteless](http://chall.tasteless.eu/)
 4) [Websec](https://websec.fr/)
