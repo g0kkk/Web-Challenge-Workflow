@@ -43,7 +43,7 @@ __Step 1__ is to do a good recon, if possible automate. Those include,
 
 Next important thing is to understand how the application works and would be good to keep notes about what you are finding.
 
-Find which language is being used at the backend, what server is being used. One way to determine this is by requesting arbitrary common paths such as, `index.php`, `index.html` etc. Sometimes, [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) can give you what you are looking for now. If it is a python backend, mostly it would be SSTI rather than something else which is more common for PHP apps.
+Find which language is being used at the backend, what server is being used. One way to determine this is by requesting arbitrary common paths such as, `index.php`, `index.html` etc. Sometimes, [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) can give you what you are looking for now. If it is a __python__ backend, mostly it would be __SSTI__ rather than something else which is more common for PHP apps.
 
 The arbitrary common paths could also leak out information about the backend of the app from the `404` pages which would come handy.
 
