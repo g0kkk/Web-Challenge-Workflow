@@ -26,7 +26,7 @@ Practising as much as you can is the key. There are a few websites, ordered in t
 4) [Websec](https://websec.fr/)
 5) [Stypr](https://chall.stypr.com/)
 
-### A few others for XSS: ###
+### A few other practice sites for XSS: ###
 1) [alert(1)](https://alf.nu/alert1)
 2) [prompt(1)](http://prompt.ml/0)
 
