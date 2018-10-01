@@ -33,7 +33,7 @@ Practicing as much as you can is the key. There are a few websites, ordered in t
 ## Approaching a CTF challenge ##
 The following approach is my methodology and feel free to modify it the way you would like to!
 
-*Step 1* is to do a good recon, if possible automate. Those include,
+__Step 1__ is to do a good recon, if possible automate. Those include,
 
     1) HTML Source
     2) robots.txt
