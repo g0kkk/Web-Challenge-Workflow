@@ -49,6 +49,9 @@ The arbitrary common paths could also leak out information about the backend of 
 
 After going through all these doesn't give out any information, we can assume that the vulnerability exists somewhere else and sometimes the `CSS` files can reveal out information by the class names used. If at all a class like `login` is being used, we can assume that a `login` page exist and then move ahead.
 
+### Tools to keep an eye on ###
+1) [dirsearch](https://github.com/maurosoria/dirsearch)
+
 ## Summarising ##
 
 Definitely, the more CTF's you play, quicker you would understand. At this point, we should have a decent understanding of how the `Backend`, `Web Application workflow`, `Different paths`, `Different directories` and `Headers` is.  
