@@ -21,7 +21,7 @@ Assuming the person has a basic understanding of PHP/MySQL and JS, rest all that
 Practising as much as you can is the key. There are a few websites, ordered in terms of difficulty!
 
 1) [RootMe](https://www.root-me.org/wargame?lang=en)
-2) [RingZer0team](https://ringzer0team.com/)
+2) [RingZer0team](https://ringzer0ctf.com/)
 3) [Tasteless](http://chall.tasteless.eu/)
 4) [Websec](https://websec.fr/)
 5) [Stypr](https://chall.stypr.com/)
