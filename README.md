@@ -54,4 +54,8 @@ After going through all these doesn't give out any information, we can assume th
 
 ## Summarising ##
 
-Definitely, the more CTF's you play, quicker you would understand. At this point, we should have a decent understanding of how the `Backend`, `Web Application workflow`, `Different paths`, `Different directories` and `Headers` is.  
+Definitely, the more CTF's you play, quicker you would understand. At this point, we should have a decent understanding of how the `Backend`, `Web Application workflow`, `Different paths`, `Different directories` and `Headers` is. 
+
+### References ###
+1) [Anirudh Anand](https://github.com/a0xnirudh)
+2) [Ian Bouchard](https://github.com/Corb3nik) 
